@@ -1,0 +1,6 @@
+{
+  "name": "Apex Football Career Studio",
+  "description": "Professional football career tracking, multi-season statistics dashboard, EA FC style player profile, trophy cabinet, match history, and records management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
